@@ -28,21 +28,16 @@ git clone https://github.com/Darlyn30/MVC_ASP_.NET.git
 ## Acceder al directorio
 cd MVC_ASP_.NET
 
-## Instalar dependencias
+## **DEPENDECIAS NECESARIAS
+```
+*Database
+# Entity Framework Core
+# Entity Framework Core SQL Server
+# Entity Framework Tools
+*WebApi
+# Entity Framework Design
 
-# Instalar el paquete principal de Entity Framework Core
-dotnet add package Microsoft.EntityFrameworkCore
-
-# Instalar el proveedor para SQL Server
-dotnet add package Microsoft.EntityFrameworkCore.SqlServer
-
-# Instalar las herramientas para migraciones
-dotnet add package Microsoft.EntityFrameworkCore.Tools
-
-# Instalar el paquete de diseño (necesario para migraciones y scaffolding)
-dotnet add package Microsoft.EntityFrameworkCore.Design
-
-
+```bash
 # Ejecutar el proyecto
 dotnet run
 ```
