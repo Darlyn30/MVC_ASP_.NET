@@ -234,3 +234,4 @@ C:\Users\darly\Videos\programacion\ORM_EXAMPLE_NewStockApp\ORM_EXAMPLE_NewStockA
 C:\Users\darly\Videos\programacion\ORM_EXAMPLE_NewStockApp\ORM_EXAMPLE_NewStockApp\bin\Debug\net9.0\Application.dll
 C:\Users\darly\Videos\programacion\ORM_EXAMPLE_NewStockApp\ORM_EXAMPLE_NewStockApp\bin\Debug\net9.0\Application.pdb
 C:\Users\darly\Videos\programacion\ORM_EXAMPLE_NewStockApp\ORM_EXAMPLE_NewStockApp\obj\Debug\net9.0\compressed\6bt35lljwm-f8eu8fgubk.gz
+C:\Users\darly\Videos\programacion\ORM_EXAMPLE_NewStockApp\ORM_EXAMPLE_NewStockApp\obj\Debug\net9.0\ORM_EXAMPLE_NewStockApp.sourcelink.json
