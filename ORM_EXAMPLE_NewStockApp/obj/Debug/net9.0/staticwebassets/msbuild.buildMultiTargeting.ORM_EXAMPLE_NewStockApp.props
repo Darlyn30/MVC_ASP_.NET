@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ORM_EXAMPLE_NewStockApp.props" />
+</Project>

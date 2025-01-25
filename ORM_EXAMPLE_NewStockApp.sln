@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ORM_EXAMPLE_NewStockApp", "ORM_EXAMPLE_NewStockApp\ORM_EXAMPLE_NewStockApp.csproj", "{1D5488FB-E727-42C9-879D-3D4F298477F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Database", "Database\Database.csproj", "{CD1374D1-6388-47FE-8DF3-14911A9A7C3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{404A713F-40A0-4F7D-9C0A-3F8FB5C75AC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D5488FB-E727-42C9-879D-3D4F298477F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D5488FB-E727-42C9-879D-3D4F298477F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D5488FB-E727-42C9-879D-3D4F298477F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D5488FB-E727-42C9-879D-3D4F298477F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD1374D1-6388-47FE-8DF3-14911A9A7C3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD1374D1-6388-47FE-8DF3-14911A9A7C3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD1374D1-6388-47FE-8DF3-14911A9A7C3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD1374D1-6388-47FE-8DF3-14911A9A7C3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{404A713F-40A0-4F7D-9C0A-3F8FB5C75AC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{404A713F-40A0-4F7D-9C0A-3F8FB5C75AC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{404A713F-40A0-4F7D-9C0A-3F8FB5C75AC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{404A713F-40A0-4F7D-9C0A-3F8FB5C75AC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

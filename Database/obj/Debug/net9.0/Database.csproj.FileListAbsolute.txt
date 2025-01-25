@@ -1,0 +1,14 @@
+C:\Users\darly\Videos\programacion\ORM_EXAMPLE_NewStockApp\Database\bin\Debug\net9.0\Database.deps.json
+C:\Users\darly\Videos\programacion\ORM_EXAMPLE_NewStockApp\Database\bin\Debug\net9.0\Database.runtimeconfig.json
+C:\Users\darly\Videos\programacion\ORM_EXAMPLE_NewStockApp\Database\bin\Debug\net9.0\Database.dll
+C:\Users\darly\Videos\programacion\ORM_EXAMPLE_NewStockApp\Database\bin\Debug\net9.0\Database.pdb
+C:\Users\darly\Videos\programacion\ORM_EXAMPLE_NewStockApp\Database\obj\Debug\net9.0\Database.csproj.AssemblyReference.cache
+C:\Users\darly\Videos\programacion\ORM_EXAMPLE_NewStockApp\Database\obj\Debug\net9.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darly\Videos\programacion\ORM_EXAMPLE_NewStockApp\Database\obj\Debug\net9.0\Database.AssemblyInfoInputs.cache
+C:\Users\darly\Videos\programacion\ORM_EXAMPLE_NewStockApp\Database\obj\Debug\net9.0\Database.AssemblyInfo.cs
+C:\Users\darly\Videos\programacion\ORM_EXAMPLE_NewStockApp\Database\obj\Debug\net9.0\Database.csproj.CoreCompileInputs.cache
+C:\Users\darly\Videos\programacion\ORM_EXAMPLE_NewStockApp\Database\obj\Debug\net9.0\Database.dll
+C:\Users\darly\Videos\programacion\ORM_EXAMPLE_NewStockApp\Database\obj\Debug\net9.0\refint\Database.dll
+C:\Users\darly\Videos\programacion\ORM_EXAMPLE_NewStockApp\Database\obj\Debug\net9.0\Database.pdb
+C:\Users\darly\Videos\programacion\ORM_EXAMPLE_NewStockApp\Database\obj\Debug\net9.0\Database.genruntimeconfig.cache
+C:\Users\darly\Videos\programacion\ORM_EXAMPLE_NewStockApp\Database\obj\Debug\net9.0\ref\Database.dll

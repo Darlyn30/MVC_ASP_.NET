@@ -1,0 +1,22 @@
+﻿@model Application.ViewModels.SaveProductViewModel
+@{
+	ViewData ["Title"] = "Delete Product";
+}
+
+<div class="row">
+	<div class="col-6 offset-3">
+		<div class="card">
+			<div class="card-header bg-danger text-bg-light">
+				<h4>Are you sure Delete @Model.Name product?</h4>
+			</div>
+			<div class="card-body">
+				<form method="post" asp-controller="Product" asp-action="DeletePost">
+					<input type="hidden" asp-for="Id"/>
+
+					<button type="submit" class="btn btn-danger">Delete</button>
+					<a asp-controller="Product" asp-action="Index" class="btn btn-warning">Cancel</a>
+				</form>
+			</div>
+		</div>
+	</div>
+</div>

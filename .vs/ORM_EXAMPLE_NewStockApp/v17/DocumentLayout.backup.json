@@ -1,0 +1,314 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\darly\\Videos\\programacion\\ORM_EXAMPLE_NewStockApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D5488FB-E727-42C9-879D-3D4F298477F6}|ORM_EXAMPLE_NewStockApp\\ORM_EXAMPLE_NewStockApp.csproj|c:\\users\\darly\\videos\\programacion\\orm_example_newstockapp\\orm_example_newstockapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D5488FB-E727-42C9-879D-3D4F298477F6}|ORM_EXAMPLE_NewStockApp\\ORM_EXAMPLE_NewStockApp.csproj|solutionrelative:orm_example_newstockapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D5488FB-E727-42C9-879D-3D4F298477F6}|ORM_EXAMPLE_NewStockApp\\ORM_EXAMPLE_NewStockApp.csproj|c:\\users\\darly\\videos\\programacion\\orm_example_newstockapp\\orm_example_newstockapp\\views\\product\\saveproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D5488FB-E727-42C9-879D-3D4F298477F6}|ORM_EXAMPLE_NewStockApp\\ORM_EXAMPLE_NewStockApp.csproj|solutionrelative:orm_example_newstockapp\\views\\product\\saveproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D5488FB-E727-42C9-879D-3D4F298477F6}|ORM_EXAMPLE_NewStockApp\\ORM_EXAMPLE_NewStockApp.csproj|c:\\users\\darly\\videos\\programacion\\orm_example_newstockapp\\orm_example_newstockapp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D5488FB-E727-42C9-879D-3D4F298477F6}|ORM_EXAMPLE_NewStockApp\\ORM_EXAMPLE_NewStockApp.csproj|solutionrelative:orm_example_newstockapp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D5488FB-E727-42C9-879D-3D4F298477F6}|ORM_EXAMPLE_NewStockApp\\ORM_EXAMPLE_NewStockApp.csproj|c:\\users\\darly\\videos\\programacion\\orm_example_newstockapp\\orm_example_newstockapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D5488FB-E727-42C9-879D-3D4F298477F6}|ORM_EXAMPLE_NewStockApp\\ORM_EXAMPLE_NewStockApp.csproj|solutionrelative:orm_example_newstockapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D5488FB-E727-42C9-879D-3D4F298477F6}|ORM_EXAMPLE_NewStockApp\\ORM_EXAMPLE_NewStockApp.csproj|c:\\users\\darly\\videos\\programacion\\orm_example_newstockapp\\orm_example_newstockapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D5488FB-E727-42C9-879D-3D4F298477F6}|ORM_EXAMPLE_NewStockApp\\ORM_EXAMPLE_NewStockApp.csproj|solutionrelative:orm_example_newstockapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D5488FB-E727-42C9-879D-3D4F298477F6}|ORM_EXAMPLE_NewStockApp\\ORM_EXAMPLE_NewStockApp.csproj|c:\\users\\darly\\videos\\programacion\\orm_example_newstockapp\\orm_example_newstockapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D5488FB-E727-42C9-879D-3D4F298477F6}|ORM_EXAMPLE_NewStockApp\\ORM_EXAMPLE_NewStockApp.csproj|solutionrelative:orm_example_newstockapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{404A713F-40A0-4F7D-9C0A-3F8FB5C75AC8}|Application\\Application.csproj|c:\\users\\darly\\videos\\programacion\\orm_example_newstockapp\\application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{404A713F-40A0-4F7D-9C0A-3F8FB5C75AC8}|Application\\Application.csproj|solutionrelative:application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{404A713F-40A0-4F7D-9C0A-3F8FB5C75AC8}|Application\\Application.csproj|c:\\users\\darly\\videos\\programacion\\orm_example_newstockapp\\application\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{404A713F-40A0-4F7D-9C0A-3F8FB5C75AC8}|Application\\Application.csproj|solutionrelative:application\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1374D1-6388-47FE-8DF3-14911A9A7C3A}|Database\\Database.csproj|c:\\users\\darly\\videos\\programacion\\orm_example_newstockapp\\database\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD1374D1-6388-47FE-8DF3-14911A9A7C3A}|Database\\Database.csproj|solutionrelative:database\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1374D1-6388-47FE-8DF3-14911A9A7C3A}|Database\\Database.csproj|c:\\users\\darly\\videos\\programacion\\orm_example_newstockapp\\database\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD1374D1-6388-47FE-8DF3-14911A9A7C3A}|Database\\Database.csproj|solutionrelative:database\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{404A713F-40A0-4F7D-9C0A-3F8FB5C75AC8}|Application\\Application.csproj|c:\\users\\darly\\videos\\programacion\\orm_example_newstockapp\\application\\viewmodels\\saveproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{404A713F-40A0-4F7D-9C0A-3F8FB5C75AC8}|Application\\Application.csproj|solutionrelative:application\\viewmodels\\saveproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{404A713F-40A0-4F7D-9C0A-3F8FB5C75AC8}|Application\\Application.csproj|c:\\users\\darly\\videos\\programacion\\orm_example_newstockapp\\application\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{404A713F-40A0-4F7D-9C0A-3F8FB5C75AC8}|Application\\Application.csproj|solutionrelative:application\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1374D1-6388-47FE-8DF3-14911A9A7C3A}|Database\\Database.csproj|c:\\users\\darly\\videos\\programacion\\orm_example_newstockapp\\database\\context\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD1374D1-6388-47FE-8DF3-14911A9A7C3A}|Database\\Database.csproj|solutionrelative:database\\context\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D5488FB-E727-42C9-879D-3D4F298477F6}|ORM_EXAMPLE_NewStockApp\\ORM_EXAMPLE_NewStockApp.csproj|c:\\users\\darly\\videos\\programacion\\orm_example_newstockapp\\orm_example_newstockapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1D5488FB-E727-42C9-879D-3D4F298477F6}|ORM_EXAMPLE_NewStockApp\\ORM_EXAMPLE_NewStockApp.csproj|solutionrelative:orm_example_newstockapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D5488FB-E727-42C9-879D-3D4F298477F6}|ORM_EXAMPLE_NewStockApp\\ORM_EXAMPLE_NewStockApp.csproj|c:\\users\\darly\\videos\\programacion\\orm_example_newstockapp\\orm_example_newstockapp\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D5488FB-E727-42C9-879D-3D4F298477F6}|ORM_EXAMPLE_NewStockApp\\ORM_EXAMPLE_NewStockApp.csproj|solutionrelative:orm_example_newstockapp\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D5488FB-E727-42C9-879D-3D4F298477F6}|ORM_EXAMPLE_NewStockApp\\ORM_EXAMPLE_NewStockApp.csproj|c:\\users\\darly\\videos\\programacion\\orm_example_newstockapp\\orm_example_newstockapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D5488FB-E727-42C9-879D-3D4F298477F6}|ORM_EXAMPLE_NewStockApp\\ORM_EXAMPLE_NewStockApp.csproj|solutionrelative:orm_example_newstockapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1374D1-6388-47FE-8DF3-14911A9A7C3A}|Database\\Database.csproj|c:\\users\\darly\\videos\\programacion\\orm_example_newstockapp\\database\\common\\basebasicentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD1374D1-6388-47FE-8DF3-14911A9A7C3A}|Database\\Database.csproj|solutionrelative:database\\common\\basebasicentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D5488FB-E727-42C9-879D-3D4F298477F6}|ORM_EXAMPLE_NewStockApp\\ORM_EXAMPLE_NewStockApp.csproj|c:\\users\\darly\\videos\\programacion\\orm_example_newstockapp\\orm_example_newstockapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D5488FB-E727-42C9-879D-3D4F298477F6}|ORM_EXAMPLE_NewStockApp\\ORM_EXAMPLE_NewStockApp.csproj|solutionrelative:orm_example_newstockapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\darly\\Videos\\programacion\\ORM_EXAMPLE_NewStockApp\\ORM_EXAMPLE_NewStockApp\\appsettings.json",
+              "RelativeDocumentMoniker": "ORM_EXAMPLE_NewStockApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\darly\\Videos\\programacion\\ORM_EXAMPLE_NewStockApp\\ORM_EXAMPLE_NewStockApp\\appsettings.json*",
+              "RelativeToolTip": "ORM_EXAMPLE_NewStockApp\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-25T02:46:03.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SaveProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\darly\\Videos\\programacion\\ORM_EXAMPLE_NewStockApp\\Application\\ViewModels\\SaveProductViewModel.cs",
+              "RelativeDocumentMoniker": "Application\\ViewModels\\SaveProductViewModel.cs",
+              "ToolTip": "C:\\Users\\darly\\Videos\\programacion\\ORM_EXAMPLE_NewStockApp\\Application\\ViewModels\\SaveProductViewModel.cs",
+              "RelativeToolTip": "Application\\ViewModels\\SaveProductViewModel.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T20:36:47.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\darly\\Videos\\programacion\\ORM_EXAMPLE_NewStockApp\\Database\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Database\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\darly\\Videos\\programacion\\ORM_EXAMPLE_NewStockApp\\Database\\Entities\\Category.cs",
+              "RelativeToolTip": "Database\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T05:53:33.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\darly\\Videos\\programacion\\ORM_EXAMPLE_NewStockApp\\ORM_EXAMPLE_NewStockApp\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ORM_EXAMPLE_NewStockApp\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\darly\\Videos\\programacion\\ORM_EXAMPLE_NewStockApp\\ORM_EXAMPLE_NewStockApp\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ORM_EXAMPLE_NewStockApp\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T20:25:21.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\darly\\Videos\\programacion\\ORM_EXAMPLE_NewStockApp\\ORM_EXAMPLE_NewStockApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ORM_EXAMPLE_NewStockApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\darly\\Videos\\programacion\\ORM_EXAMPLE_NewStockApp\\ORM_EXAMPLE_NewStockApp\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "ORM_EXAMPLE_NewStockApp\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwBEAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T19:08:38.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\darly\\Videos\\programacion\\ORM_EXAMPLE_NewStockApp\\ORM_EXAMPLE_NewStockApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ORM_EXAMPLE_NewStockApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\darly\\Videos\\programacion\\ORM_EXAMPLE_NewStockApp\\ORM_EXAMPLE_NewStockApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ORM_EXAMPLE_NewStockApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T19:30:12.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\darly\\Videos\\programacion\\ORM_EXAMPLE_NewStockApp\\ORM_EXAMPLE_NewStockApp\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "ORM_EXAMPLE_NewStockApp\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\darly\\Videos\\programacion\\ORM_EXAMPLE_NewStockApp\\ORM_EXAMPLE_NewStockApp\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "ORM_EXAMPLE_NewStockApp\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T20:26:18.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SaveProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\darly\\Videos\\programacion\\ORM_EXAMPLE_NewStockApp\\ORM_EXAMPLE_NewStockApp\\Views\\Product\\SaveProduct.cshtml",
+              "RelativeDocumentMoniker": "ORM_EXAMPLE_NewStockApp\\Views\\Product\\SaveProduct.cshtml",
+              "ToolTip": "C:\\Users\\darly\\Videos\\programacion\\ORM_EXAMPLE_NewStockApp\\ORM_EXAMPLE_NewStockApp\\Views\\Product\\SaveProduct.cshtml",
+              "RelativeToolTip": "ORM_EXAMPLE_NewStockApp\\Views\\Product\\SaveProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T20:38:01.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\darly\\Videos\\programacion\\ORM_EXAMPLE_NewStockApp\\Database\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Database\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\darly\\Videos\\programacion\\ORM_EXAMPLE_NewStockApp\\Database\\Entities\\Product.cs",
+              "RelativeToolTip": "Database\\Entities\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T05:40:11.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\darly\\Videos\\programacion\\ORM_EXAMPLE_NewStockApp\\Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\darly\\Videos\\programacion\\ORM_EXAMPLE_NewStockApp\\Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "Application\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T20:00:48.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\darly\\Videos\\programacion\\ORM_EXAMPLE_NewStockApp\\Application\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\darly\\Videos\\programacion\\ORM_EXAMPLE_NewStockApp\\Application\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "Application\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA9wBMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T19:46:48.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\darly\\Videos\\programacion\\ORM_EXAMPLE_NewStockApp\\Application\\ViewModels\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "Application\\ViewModels\\ProductViewModel.cs",
+              "ToolTip": "C:\\Users\\darly\\Videos\\programacion\\ORM_EXAMPLE_NewStockApp\\Application\\ViewModels\\ProductViewModel.cs",
+              "RelativeToolTip": "Application\\ViewModels\\ProductViewModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T20:04:59.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\darly\\Videos\\programacion\\ORM_EXAMPLE_NewStockApp\\Database\\Context\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "Database\\Context\\ApplicationContext.cs",
+              "ToolTip": "C:\\Users\\darly\\Videos\\programacion\\ORM_EXAMPLE_NewStockApp\\Database\\Context\\ApplicationContext.cs",
+              "RelativeToolTip": "Database\\Context\\ApplicationContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T06:13:52.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\darly\\Videos\\programacion\\ORM_EXAMPLE_NewStockApp\\ORM_EXAMPLE_NewStockApp\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ORM_EXAMPLE_NewStockApp\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\darly\\Videos\\programacion\\ORM_EXAMPLE_NewStockApp\\ORM_EXAMPLE_NewStockApp\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "ORM_EXAMPLE_NewStockApp\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T21:38:04.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\darly\\Videos\\programacion\\ORM_EXAMPLE_NewStockApp\\ORM_EXAMPLE_NewStockApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ORM_EXAMPLE_NewStockApp\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\darly\\Videos\\programacion\\ORM_EXAMPLE_NewStockApp\\ORM_EXAMPLE_NewStockApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ORM_EXAMPLE_NewStockApp\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-24T21:49:51.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BaseBasicEntity.cs",
+              "DocumentMoniker": "C:\\Users\\darly\\Videos\\programacion\\ORM_EXAMPLE_NewStockApp\\Database\\Common\\BaseBasicEntity.cs",
+              "RelativeDocumentMoniker": "Database\\Common\\BaseBasicEntity.cs",
+              "ToolTip": "C:\\Users\\darly\\Videos\\programacion\\ORM_EXAMPLE_NewStockApp\\Database\\Common\\BaseBasicEntity.cs",
+              "RelativeToolTip": "Database\\Common\\BaseBasicEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T05:55:02.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\darly\\Videos\\programacion\\ORM_EXAMPLE_NewStockApp\\ORM_EXAMPLE_NewStockApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ORM_EXAMPLE_NewStockApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\darly\\Videos\\programacion\\ORM_EXAMPLE_NewStockApp\\ORM_EXAMPLE_NewStockApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ORM_EXAMPLE_NewStockApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T19:09:55.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\darly\\Videos\\programacion\\ORM_EXAMPLE_NewStockApp\\ORM_EXAMPLE_NewStockApp\\Program.cs",
+              "RelativeDocumentMoniker": "ORM_EXAMPLE_NewStockApp\\Program.cs",
+              "ToolTip": "C:\\Users\\darly\\Videos\\programacion\\ORM_EXAMPLE_NewStockApp\\ORM_EXAMPLE_NewStockApp\\Program.cs",
+              "RelativeToolTip": "ORM_EXAMPLE_NewStockApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T06:59:32.213Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
