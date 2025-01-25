@@ -19,8 +19,6 @@ y el tema de las migraciones de la base de datos
 
 ## Instalación
 
-Instrucciones claras para clonar y configurar el proyecto localmente:
-
 ```bash
 # Clonar el repositorio
 git clone https://github.com/Darlyn30/MVC_ASP_.NET.git
@@ -49,4 +47,4 @@ dotnet run
 ![](./img/4.png)
 
 
-# ALL RIGHTS RESERVED (Darlyn30) 2025
+# &copy; ALL RIGHTS RESERVED (Darlyn30) 2025
