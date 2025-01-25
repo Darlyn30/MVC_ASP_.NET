@@ -1,4 +1,4 @@
-# Nombre del Proyecto
+# ORM_EXAMPLE_NewStockApp
 
 Esto es un proyecto con la arquitectura de MVC desarrollada en .NET y blazor
 aqui termine desarrollando un CRUD de productos y categorias
@@ -49,9 +49,9 @@ dotnet run
 
 ## Visual de la Aplicacion
 ![](./img/1.jpg)
-![](./img/2.jpg)
-![](./img/3.jpg)
-![](./img/4.jpg)
+![](./img/2.png)
+![](./img/3.png)
+![](./img/4.png)
 
 
 # ALL RIGHTS RESERVED (Darlyn30) 2025
