@@ -45,6 +45,7 @@ dotnet add package Microsoft.EntityFrameworkCore.Design
 
 # Ejecutar el proyecto
 dotnet run
+```
 
 ## Visual de la Aplicacion
 ![](./img/1.jpg)
@@ -53,4 +54,4 @@ dotnet run
 ![](./img/4.jpg)
 
 
-# ALL RIGHTS RESERVED
+# ALL RIGHTS RESERVED (Darlyn30) 2025
